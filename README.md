@@ -1,5 +1,7 @@
 ### Hi there 👋
 
+- I am a software engineer. Currently, I am working on Backend Development with Java/Kotlin and Spring Boot.
+
 <!--
 **mihabgit/mihabgit** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
