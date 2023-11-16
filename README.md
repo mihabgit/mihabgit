@@ -11,8 +11,9 @@
 
 ### Backend Technologies
 ![Static Badge](https://img.shields.io/badge/Spring-black?logo=spring)
-![Static Badge](https://img.shields.io/badge/Spring_Boot-black?logo=springboot)
-![Static Badge](https://img.shields.io/badge/Spring_Security-black?logo=springsecurity)
+![Static Badge](https://img.shields.io/badge/Spring_Boot-purple?logo=springboot)
+![Static Badge](https://img.shields.io/badge/Spring_Security-teal?logo=springsecurity)
+![Static Badge](https://img.shields.io/badge/Hibernate-yellow?logo=hibernate)
 
 
 ### Databases
@@ -33,6 +34,9 @@
 ![Static Badge](https://img.shields.io/badge/GitHub-black?logo=github)
 ![Static Badge](https://img.shields.io/badge/GitLab-black?logo=gitlab)
 ![Static Badge](https://img.shields.io/badge/BitBucket-black?logo=bitbucket)
+
+## Containerization
+![Static Badge](https://img.shields.io/badge/Docker-gray?logo=docker)
 
 
 
