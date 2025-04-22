@@ -6,7 +6,7 @@
 
 ![Static Badge](https://img.shields.io/badge/Java-yellow?logo=java-coffee)
 ![Static Badge](https://img.shields.io/badge/Kotlin-yellow?logo=kotlin)
-![Static Badge](https://img.shields.io/badge/Dart-brown?logo=dart)
+[![Go](https://img.shields.io/badge/Go-%2300ADD8.svg?&logo=go&logoColor=white)](#)
 
 
 ### Backend Technologies
@@ -23,7 +23,6 @@
 
 ### Mobile Frameworks
 ![Static Badge](https://img.shields.io/badge/Android-black?logo=android)
-![Static Badge](https://img.shields.io/badge/Flutter-black?logo=flutter&logoColor=blue)
 
 ## IDEs
 ![Static Badge](https://img.shields.io/badge/IntelliJ_IDEA-black?logo=intellijidea)
