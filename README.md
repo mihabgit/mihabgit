@@ -1,6 +1,6 @@
 ## Hi there 👋
 
-- I am a Software Engineer with 2+ years of experience in <b>Backend Development</b> using <b>Java/Kotlin</b> with <b>Spring Boot</b> and 4+ years of experience in <b>Android Application Development</b>. I am currently open for a full-time Backend Software Developer role.
+- I am a Software Engineer with 3+ years of experience in <b>Backend Development</b> using <b>Java/Kotlin</b> with <b>Spring Boot</b> and 4+ years of experience in <b>Android Application Development</b>. I am currently open for a full-time Backend Software Developer role.
 
 ### Programming Languages
 
