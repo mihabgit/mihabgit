@@ -1,57 +1,79 @@
-## Hi there 👋
+# 👋 Hi, I'm Imran Hossain
 
-- I am a Software Engineer with 3+ years of experience in <b>Backend Development</b> using <b>Java/Kotlin</b> with <b>Spring Boot</b> and 4+ years of experience in <b>Android Application Development</b>. I am currently open for a full-time Backend Software Developer role.
+## 💻 Backend Software Engineer | Java | Kotlin | Spring Boot | Android
 
-### Programming Languages
+Backend-focused Software Engineer with **3+ years of professional experience** building **scalable and secure backend systems** using **Java, Kotlin, and Spring Boot**, along with **4+ years of experience** in **Android application development**.  
+🚀 Actively seeking a **full-time Backend Software Engineer** role.
 
-![Static Badge](https://img.shields.io/badge/Java-yellow?logo=java-coffee)
-![Static Badge](https://img.shields.io/badge/Kotlin-yellow?logo=kotlin)
-[![Go](https://img.shields.io/badge/Go-%2300ADD8.svg?&logo=go&logoColor=white)](#)
+---
 
+## 🔧 Core Skills & Technologies
 
-### Backend Technologies
-![Static Badge](https://img.shields.io/badge/Spring-black?logo=spring)
-![Static Badge](https://img.shields.io/badge/Spring_Boot-purple?logo=springboot)
-![Static Badge](https://img.shields.io/badge/Spring_Security-teal?logo=springsecurity)
-![Static Badge](https://img.shields.io/badge/Hibernate-yellow?logo=hibernate)
+### 🧠 Programming Languages
+- Java
+- Kotlin
+- Go
 
+### ⚙️ Backend Development
+- Spring Framework
+- Spring Boot
+- Spring Security
+- Hibernate / JPA
+- RESTful APIs
+- Microservices Architecture
 
-### Databases
-![Static Badge](https://img.shields.io/badge/MySQL-black?logo=mysql&logoColor=blue)
-![Static Badge](https://img.shields.io/badge/PostgreSQL-black?logo=postgresql)
-![Static Badge](https://img.shields.io/badge/MongoDB-black?logo=mongodb)
+### 🗄️ Databases
+- PostgreSQL
+- MySQL
+- MongoDB
 
-### Mobile Frameworks
-![Static Badge](https://img.shields.io/badge/Android-black?logo=android)
+### 📱 Mobile Development
+- Android (Native, Kotlin)
 
-## IDEs
-![Static Badge](https://img.shields.io/badge/IntelliJ_IDEA-black?logo=intellijidea)
-![Static Badge](https://img.shields.io/badge/Android_Studio-black?logo=androidstudio)
-![Static Badge](https://img.shields.io/badge/VS_Code-black?logo=visualstudiocode)
+### 🐳 DevOps & Tools
+- Docker
+- Git
+- GitHub
+- GitLab
+- Bitbucket
 
-## Version Control
-![Static Badge](https://img.shields.io/badge/GitHub-black?logo=github)
-![Static Badge](https://img.shields.io/badge/GitLab-black?logo=gitlab)
-![Static Badge](https://img.shields.io/badge/BitBucket-black?logo=bitbucket)
+### 🧰 IDEs
+- IntelliJ IDEA
+- Android Studio
+- Visual Studio Code
 
-## Containerization
-![Static Badge](https://img.shields.io/badge/Docker-gray?logo=docker)
+---
 
+## 🧠 Professional Experience Highlights
+- Designed and developed **scalable backend services** using Spring Boot
+- Implemented **authentication and authorization** with Spring Security
+- Built and maintained **RESTful APIs** for mobile and web clients
+- Worked with **relational and NoSQL databases**
+- Developed and deployed **containerized applications** using Docker
+- Collaborated in **agile teams**, following clean code and best practices
 
+---
 
+## 🎯 Career Focus
+- Backend Software Engineering
+- Distributed Systems
+- API Design & Performance Optimization
+- Secure and Maintainable Codebases
 
+---
 
-<!--
-**mihabgit/mihabgit** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+## 📌 Open To Opportunities
+- Backend Software Engineer
+- Java Backend Developer
+- Kotlin Backend Developer
 
-Here are some ideas to get you started:
+---
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 📬 Contact Me
+
+- 📧 **Email:** [imranhmihab@gmail.com](mailto:imranhmihab@gmail.com)
+- 💬 **WhatsApp:** [+8801512345245](https://wa.me/8801512345245)
+
+---
+
+⭐ Feel free to explore my repositories and connect with me!
